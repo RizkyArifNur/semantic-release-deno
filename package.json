@@ -1,7 +1,7 @@
 {
-  "name": "@semantic-release/github",
-  "description": "semantic-release plugin to publish a GitHub release and comment on released Pull Requests/Issues",
-  "version": "0.0.0-development",
+  "name": "semantic-release-deno",
+  "description": "semantic-release plugin to publish a GitHub release, comment on released Pull Requests/Issues and create new branch for every version",
+  "version": "0.0.1",
   "author": "Pierre Vanduynslager (https://twitter.com/@pvdlg_)",
   "ava": {
     "files": [
