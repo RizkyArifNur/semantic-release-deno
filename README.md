@@ -2,6 +2,7 @@
 
 [**semantic-release**](https://github.com/semantic-release/semantic-release) plugin to publish a
 [GitHub release](https://help.github.com/articles/about-releases), comment on released Pull Requests/Issues and create new branch for every version.
+(This package is forked from @semantic-release/github with additional feature that create branch for every version, you can use this package like @semantic-release/github)
 
 | Step               | Description                                                                                                                                                                                                                              |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
